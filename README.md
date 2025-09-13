@@ -46,10 +46,8 @@ It demonstrates **data cleaning, customer segmentation (RFM analysis), and dashb
 
 ## 📈 Key Insights
 - UK is the dominant sales market, but other countries show potential.  
-- *Champions* and *Loyal* customers account for most revenue.  
-- Seasonal spikes highlight opportunities for marketing campaigns.  
-
----
-
-## ✍️ Author
-Created by  
+- Monthly sales showed strong seasonal growth, peaking in October–November.  
+- RFM analysis revealed 48% Champions and 26% Loyal customers, but ~25% were At Risk, needing re-engagement strategies.  
+- A few top-selling products (e.g., Paper Craft, Cake Stand) drove a large share of revenue.
+  
+ 
